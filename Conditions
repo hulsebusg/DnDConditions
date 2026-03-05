@@ -1,4 +1,4 @@
-"conditions": [
+{"conditions": [
     {
       "id": 1,
       "condition": "Blinded",
@@ -75,4 +75,4 @@
       "description": "Incapacitated and Prone. You drop items and fail Str/Dex saves. Attacks against you have Advantage and are Crits within 5ft."
     }
   ]
-
+}
