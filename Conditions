@@ -1,0 +1,64 @@
+{
+  "conditions": {
+    "blinded": {
+      "name": "Blinded",
+      "description": "A blinded creature can't see and fails any ability check that requires sight. Attack rolls against the creature have Advantage, and the creature's attack rolls have Disadvantage."
+    },
+    "charmed": {
+      "name": "Charmed",
+      "description": "A charmed creature can't attack the charmer or target the charmer with damaging abilities or magical effects. The charmer has Advantage on any ability check to interact socially with the creature."
+    },
+    "deafened": {
+      "name": "Deafened",
+      "description": "A deafened creature can't hear and fails any ability check that requires hearing."
+    },
+    "exhaustion": {
+      "name": "Exhaustion",
+      "description": "Each level of Exhaustion reduces a creature's d20 Tests (Ability Checks, Attack Rolls, and Saving Throws) by 2 and reduces Speed by 5 feet. At 6th level, a creature dies. A Long Rest removes 1 level of Exhaustion."
+    },
+    "frightened": {
+      "name": "Frightened",
+      "description": "A frightened creature has Disadvantage on Ability Checks and Attack Rolls while the source of its fear is within Line of Sight. The creature can't willingly move closer to the source of its fear."
+    },
+    "grappled": {
+      "name": "Grappled",
+      "description": "A grappled creature's Speed is 0 and can't increase. The creature has Disadvantage on Attack Rolls against targets other than the grappler. The condition ends if the grappler is incapacitated or if an effect removes the grappled creature from the reach of the grappler."
+    },
+    "incapacitated": {
+      "name": "Incapacitated",
+      "description": "An incapacitated creature can't take Actions, Bonus Actions, or Reactions. Its concentration is broken."
+    },
+    "invisible": {
+      "name": "Invisible",
+      "description": "An invisible creature can't be seen without the aid of magic or a special sense. The creature has সুবিধা on Attack Rolls, and attack rolls against it have Disadvantage."
+    },
+    "paralyzed": {
+      "name": "Paralyzed",
+      "description": "A paralyzed creature has the Incapacitated condition. It cannot move or speak. Attacks against it have Advantage, and any attack that hits from within 5ft is a Critical Hit. It automatically fails Strength and Dexterity Saving Throws."
+    },
+    "petrified": {
+      "name": "Petrified",
+      "description": "A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of 10, and it ceases aging. The creature has the Incapacitated condition, is unaware of its surroundings, and has Resistance to all damage. It is immune to Poison and Disease."
+    },
+    "poisoned": {
+      "name": "Poisoned",
+      "description": "A poisoned creature has Disadvantage on Attack Rolls and Ability Checks."
+    },
+    "prone": {
+      "name": "Prone",
+      "description": "A prone creature's only movement option is to crawl or spend movement to stand up. It has Disadvantage on Attack Rolls. Attack rolls against it have Advantage if the attacker is within 5 feet; otherwise, they have Disadvantage."
+    },
+    "restrained": {
+      "name": "Restrained",
+      "description": "A restrained creature's Speed is 0. It has Disadvantage on Attack Rolls. Attack rolls against it have Advantage. The creature has Disadvantage on Dexterity Saving Throws."
+    },
+    "stunned": {
+      "name": "Stunned",
+      "description": "A stunned creature has the Incapacitated condition and can't move. Attack rolls against it have Advantage. The creature automatically fails Strength and Dexterity Saving Throws."
+    },
+    "unconscious": {
+      "name": "Unconscious",
+      "description": "An unconscious creature has the Incapacitated condition, is unaware of its surroundings, drops whatever it is holding, and falls Prone. Its speed is 0. It automatically fails Strength and Dexterity Saving Throws. Attack rolls against it have Advantage, and any attack that hits it from within 5ft is a Critical Hit."
+    }
+  }
+}
