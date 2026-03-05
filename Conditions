@@ -1,5 +1,4 @@
-{
-  "conditions": [
+conditions: [
     {
       "id": 1,
       "condition": "Blinded",
